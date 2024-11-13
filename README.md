@@ -8,7 +8,7 @@ This project has two main components:
 1. **Employee Request (Canvas App)**: Allows employees to submit requests for a coffee machine replacement.
    <img width="559" alt="image" src="https://github.com/user-attachments/assets/6c08c7d2-914f-4835-b9d9-b80df90731dc">
 2. **Back-Office Fulfillment (Model-Driven App)**: Used by the back-office team to manage and fulfill each request, including procurement, setup, and distribution.
-<img width="583" alt="image" src="https://github.com/user-attachments/assets/224c3352-805f-46f7-b1d0-68a644343b94">
+   <img width="583" alt="image" src="https://github.com/user-attachments/assets/224c3352-805f-46f7-b1d0-68a644343b94">
 
 
 
