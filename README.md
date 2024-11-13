@@ -6,7 +6,10 @@ This Power Apps solution was developed for an organization’s coffee machine re
 ## Project Description
 This project has two main components:
 1. **Employee Request (Canvas App)**: Allows employees to submit requests for a coffee machine replacement.
+   <img width="559" alt="image" src="https://github.com/user-attachments/assets/6c08c7d2-914f-4835-b9d9-b80df90731dc">
 2. **Back-Office Fulfillment (Model-Driven App)**: Used by the back-office team to manage and fulfill each request, including procurement, setup, and distribution.
+   <img width="959" alt="image" src="https://github.com/user-attachments/assets/0d740861-436b-4455-96f0-82a3c45fbb1e">
+
 
 ## Features
 - **Employee Request Submission**: Simple canvas app for employees to request a coffee machine.
@@ -27,4 +30,3 @@ This project has two main components:
 2. **Canvas App**: Build the canvas app for employees to submit requests.
 3. **Model-Driven App**: Create the model-driven app for back-office staff to manage requests.
 
-## Future Enhancements
